@@ -110,10 +110,6 @@ A software scraping public records from the state aid registry. An interesting p
 - Python
 - Selenium
 
-### Public procurement analysis
-
-// TODO
-
 ### 2020 - 2022 - Advanced scraping software
 
 In Poland, financial statements of companies and other institutions are de jure publicly available, but de facto difficult to access and analyze.
