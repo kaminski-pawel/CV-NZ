@@ -12,9 +12,9 @@ Master's Degree (LLM) at UAM Law School in Poznan, Poland (the third best Law Sc
 
 I have been using Python, SQL and VBA at work since 2016, JavaScript since 2019. Since 2018 around 90% of my workhours involves writing software.
 
-2018-2022 - self-employed
-2014-2018 - Tax Consultant at TPA Poland (Baker Tilly Group)
-2011-2014 - Lawyer at Merski Radcy Prawni i Adwokaci Sp.k. Law Firm
+- 2018-2022 - self-employed
+- 2014-2018 - Tax Consultant at TPA Poland (Baker Tilly Group)
+- 2011-2014 - Lawyer at Merski Radcy Prawni i Adwokaci Sp.k. Law Firm
 
 ## Project history
 
@@ -112,7 +112,7 @@ A software scraping public records from the state aid registry. An interesting p
 
 ### Public procurement analysis
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+// TODO
 
 ### 2020 - 2022 - Advanced scraping software
 
