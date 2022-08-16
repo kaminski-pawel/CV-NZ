@@ -1,5 +1,10 @@
 # Pawel Kaminski
 
+Software Developer
+Email: kaminskipawel@hotmail.com
+Date of birth: October 28, 1989
+Linkedin: www.linkedin.com/in/pawel-kam
+
 ## Objective
 
 Looking for a full-time work as Software/Application Programmer in New Zealand (on-location).
@@ -228,7 +233,7 @@ Looking for a job offer from an employer who is accredited to hire migrants for 
 
 - English ⭐⭐⭐
 - Polish ⭐⭐⭐
-- German ⭐⭐
-- Russian ⭐
+- German ⭐
+
 - Scrum, Agile
 - Git, Github, Jira, Bitbucket
