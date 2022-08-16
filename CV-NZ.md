@@ -116,7 +116,7 @@ A software scraping public records from the state aid registry. An interesting p
 
 ### 2020 - 2022 - Advanced scraping software
 
-In Poland, financial statements of companies and other institutions are de jure publicly available, but de facto difficult to access and analyse.
+In Poland, financial statements of companies and other institutions are de jure publicly available, but de facto difficult to access and analyze.
 
 I created an application that downloads financial reports while avoiding denial of access to these public resources. Most difficulties of the project stem from the need to prevent blacklisting while ensuring that the process is legal and ethical. On the technical side, this is achieved by making the automatic scraper to behave like a normal user. This includes sending spaced HTTP requests with appropriate HTTP headers, randomizing behaviour, accessing the registry from different IP addresses. From an architectural perspective, the software follows the Page Object Model pattern.
 
@@ -141,14 +141,14 @@ By far the most complex software I've ever written. The backend consists of smal
 
 - reading XML files with financial statements
 - exporting contents of XML files to .XLSX (Excel) or .CSV files
-- ratio analysis (indebtness, profitability, margins, liquidity, cash conversion cycle, transfer pricing, etc.)
+- ratio analysis (indebtedness, profitability, margins, liquidity, cash conversion cycle, transfer pricing, etc.)
 - bankruptcy prediction
 - standardization of financial data
 - verification of financial statements
 - fixing minor errors of financial statements
 - company's use of a tax shield
 
-Financial data read by the software can be visualised (incl. as a chart), printed and saved as an Excel file. The tools allow to analyse financial data from one or many financial statements. With thousands unique users a month the application is widely used across the country among managers, journalists and finance professionals (accountants, auditors, analysts, etc.).
+Financial data read by the software can be visualized (incl. as a chart), printed and saved as an Excel file. The tools allow to analyze financial data from one or many financial statements. With thousands unique users a month the application is widely used across the country among managers, journalists and finance professionals (accountants, auditors, analysts, etc.).
 
 - Python
 - Django, Django Rest Framework
