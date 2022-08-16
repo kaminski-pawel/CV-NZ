@@ -23,6 +23,8 @@ I have been using Python, SQL and VBA at work since 2016, JavaScript since 2019.
 
 ## Project history
 
+Listed below are some of the software projects, I've worked on.
+
 ### 2022 - Twitterbot based on AWS SQS
 
 Twitter Bot, which publishes posts of companies' business activities.
