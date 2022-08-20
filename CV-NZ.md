@@ -2,7 +2,9 @@
 
 - Software Developer
 - Email: kaminskipawel@hotmail.com
-- Date of birth: October 28, 1989
+- Date of Birth: October 28, 1989
+- Citizenship: Polish
+- Home Address: Koniecpolskiego Street 2A/9, 78-100 Kolobrzeg, Poland
 - Linkedin: www.linkedin.com/in/pawel-kam
 
 ---
