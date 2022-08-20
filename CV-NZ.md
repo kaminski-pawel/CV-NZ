@@ -1,17 +1,23 @@
 # Pawel Kaminski
 
-Software Developer
-Email: kaminskipawel@hotmail.com
-Date of birth: October 28, 1989
-Linkedin: www.linkedin.com/in/pawel-kam
+- Software Developer
+- Email: kaminskipawel@hotmail.com
+- Date of birth: October 28, 1989
+- Linkedin: www.linkedin.com/in/pawel-kam
+
+---
 
 ## Objective
 
 Looking for a full-time work as Software/Application Programmer in New Zealand (on-location).
 
+---
+
 ## Education
 
 Master's Degree (LLM) at UAM Law School in Poznan, Poland (the third best Law School in the country).
+
+---
 
 ## Work history
 
@@ -20,6 +26,8 @@ I have been using Python, SQL and VBA at work since 2016, JavaScript since 2019.
 - 2018-2022 - self-employed
 - 2014-2018 - Tax Consultant at TPA Poland (Baker Tilly Group)
 - 2011-2014 - Lawyer at Merski Radcy Prawni i Adwokaci Sp.k. Law Firm
+
+---
 
 ## Project history
 
@@ -227,9 +235,13 @@ When I worked as a tax consultant, I worked on .XLSX (MS Office Excel) and .ACCD
 - VBA
 - SQL
 
+---
+
 ## Visa status
 
 Looking for a job offer from an employer who is accredited to hire migrants for the Accredited Employer Work Visa.
+
+---
 
 ## Other skills
 
