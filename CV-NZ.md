@@ -15,6 +15,12 @@
 
 Looking for a full-time work as Software/Application Programmer in New Zealand (on-location).
 
+My favorite languages are Python, TypeScript, and JavaScript (in that order). I want to develop in the field of writing complex business logic and data-intensive applications.
+
+I really like solving technical problems and learning how it works. I am a business-oriented programmer, more focused on delivering customer value than technical issues. Before I started writing software, I worked as a lawyer with a tax specialization and got to know inside out how business works, both big and small.
+
+I like web technologies, but I don't like working on web design, styles, graphics, animations, etc.
+
 ---
 
 ## Visa status
