@@ -17,19 +17,9 @@ Looking for a full-time work as Software/Application Programmer in New Zealand (
 
 ---
 
-## Education
+## Visa status
 
-Master's Degree (LL.M.) at UAM Law School in Poznan, Poland (the third best Law School in Poland).
-
----
-
-## Work history
-
-I have been using Python, SQL and VBA at work since 2016, JavaScript since 2019. Since 2018 around 90% of my workhours involves writing software.
-
-- 2018-2022 - self-employed
-- 2014-2018 - Tax Consultant at TPA Poland (Baker Tilly Group)
-- 2011-2014 - Lawyer at Merski Radcy Prawni i Adwokaci Sp.k. Law Firm
+Looking for a job offer from an employer who is accredited to hire migrants for the Accredited Employer Work Visa.
 
 ---
 
@@ -241,9 +231,19 @@ When I worked as a tax consultant, I worked on .XLSX (MS Office Excel) and .ACCD
 
 ---
 
-## Visa status
+## Work history
 
-Looking for a job offer from an employer who is accredited to hire migrants for the Accredited Employer Work Visa.
+I have been using Python, SQL and VBA at work since 2016, JavaScript since 2019. Since 2018 around 90% of my workhours involves writing software.
+
+- 2018-2022 - self-employed
+- 2014-2018 - Tax Consultant at TPA Poland (Baker Tilly Group)
+- 2011-2014 - Lawyer at Merski Radcy Prawni i Adwokaci Sp.k. Law Firm
+
+---
+
+## Education
+
+Master's Degree (LL.M.) at UAM Law School in Poznan, Poland (the third best Law School in Poland).
 
 ---
 
