@@ -2,9 +2,11 @@
 
 - Applying for: Software Developer
 - Email: kaminskipawel@hotmail.com
-- Date of Birth: October 28, 1989
-- Citizenship: Polish
-- Home Address: Koniecpolskiego Street 2A/9, 78-100 Kolobrzeg, Poland
+- Date of Birth: 28 October 1989
+
+## Social Profile
+
+- Website: tipi.software/en/profil/pawel-kaminski
 - Linkedin: www.linkedin.com/in/pawel-kam
 - Github: github.com/kaminski-pawel
 - StackOverflow: stackoverflow.com/users/8007403/pawel-kam
@@ -15,11 +17,11 @@
 
 Looking for a full-time work as Software/Application Programmer in New Zealand (on-location).
 
-My favorite languages are Python, TypeScript, and JavaScript (in that order). I want to develop in the field of writing complex business logic and data-intensive applications.
+I am seeking a job that will allow me to realize my skills. I want to develop in the field of writing complex business logic and data-intensive applications. My favorite languages are Python, TypeScript, and JavaScript (in that order).
 
-I really like solving technical problems and learning how it works. I am a business-oriented programmer, more focused on delivering customer value than technical issues. Before I started writing software, I worked as a lawyer with a tax specialization and got to know inside out how business works, both big and small.
+I really like solving technical problems and learning how systems work. I am a business-oriented programmer, more focused on delivering customer value than technical issues. Before I started writing software, I worked as a lawyer with a tax specialization and got to know inside out how business works, both big and small.
 
-I like web technologies, but I don't like working on web design, styles, graphics, animations, etc.
+On a personal level, I have a family in New Zealand that I would like to join.
 
 ---
 
