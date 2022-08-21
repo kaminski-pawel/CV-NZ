@@ -1,15 +1,17 @@
 # Pawel Kaminski
 
-- Software Developer
+- Applying for: Software Developer
 - Email: kaminskipawel@hotmail.com
 - Date of Birth: October 28, 1989
 - Citizenship: Polish
 - Home Address: Koniecpolskiego Street 2A/9, 78-100 Kolobrzeg, Poland
 - Linkedin: www.linkedin.com/in/pawel-kam
+- Github: github.com/kaminski-pawel
+- StackOverflow: stackoverflow.com/users/8007403/pawel-kam
 
 ---
 
-## Objective
+## Current Status
 
 Looking for a full-time work as Software/Application Programmer in New Zealand (on-location).
 
@@ -17,7 +19,7 @@ Looking for a full-time work as Software/Application Programmer in New Zealand (
 
 ## Education
 
-Master's Degree (LLM) at UAM Law School in Poznan, Poland (the third best Law School in the country).
+Master's Degree (LL.M.) at UAM Law School in Poznan, Poland (the third best Law School in Poland).
 
 ---
 
