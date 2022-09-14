@@ -41,6 +41,8 @@ Twitter Bot, which publishes posts of companies' business activities.
 
 This bot utilizes a FIFO queue. First, a tweet is prepared and queued to AWS Simple Queue Service. Then, after a certain amount of time, the tweet is dequeued and published using Twitter API.
 
+Source code: github.com/kaminski-pawel/yale-celi-twitter-bot
+
 - Python
 - boto3, tweepy
 - AWS SQS
@@ -48,6 +50,8 @@ This bot utilizes a FIFO queue. First, a tweet is prepared and queued to AWS Sim
 ### 2022 - AWS Lambda functions for serving as an backend API
 
 This project consists of two AWS Lambda functions to provide an API to the list of companies maintained by Jeffrey Sonnenfeld and his team the Yale Chief Executive Leadership Institute.
+
+Source code: github.com/kaminski-pawel/yale-celi-list-of-companies
 
 - Python
 - JavaScript
@@ -57,6 +61,8 @@ This project consists of two AWS Lambda functions to provide an API to the list 
 ### 2022 - horizontal waterfall chart
 
 Horizontal waterfall chart for use in a larger project.
+
+Source code: codesandbox.io/s/github/kaminski-pawel/chart-js-waterfall
 
 - JavaScript
 - chart.js
@@ -71,6 +77,8 @@ Timesheet and project management software tailored to the needs of financial aud
 
 Technically, it is a Python and Django application based on a PostgreSQL database. Interesting in this project is the use of React mini applications as reactive widgets. Instead of writing a full-fledged front-end application the React apps are bundled with Webpack to 'vanilla' JavaScript files, which Django serves inside of a HTML script tag.
 
+Source code: on request
+
 - Python
 - Django
 - JavaScript
@@ -83,6 +91,8 @@ Technically, it is a Python and Django application based on a PostgreSQL databas
 
 For the purpose of a mass mailing marketing campaign, I wrote an application that takes in as an input an HTML email template file and sends multiple emails customized to different recipients. This project uses Amazon Simple Email Service (SES).
 
+Source code: github.com/kaminski-pawel/send-emails
+
 - Python
 - AWS SES
 - libraries: boto3, bs4, email, jinja2
@@ -92,7 +102,9 @@ For the purpose of a mass mailing marketing campaign, I wrote an application tha
 
 In cooperation with the Polish Chamber of Commerce for Road Engineering I wrote a website presenting financial profiles of road construction companies.
 
-The front-end is a JavaScript/Nuxt application rendered on a server side. The financial data of the companies is loaded from the Amazon DynamoDB database (project was maintained only for several months, some links might not work, especially links to resources in S3 buckets).
+The front-end is a JavaScript/Nuxt application rendered on a server side. The financial data of the companies is loaded from the Amazon DynamoDB database or S3 buckets.
+
+Demo: mojeanalizy.pl/en/analizy/budownictwo-drogowe
 
 - Python
 - Django
@@ -115,6 +127,8 @@ To do this, I exported financial results of software house companies using mojea
 
 A fork of an AWS Lambda function with Chromium webdriver modified to scrape Bisnode economic information office website in order to extract public data requested by a client.
 
+Source code: on request
+
 - Python
 - Docker
 - Selenium
@@ -124,6 +138,8 @@ A fork of an AWS Lambda function with Chromium webdriver modified to scrape Bisn
 
 A software scraping public records from the state aid registry. An interesting part of this project is the use of a ReCaptcha solver.
 
+Source code: on request
+
 - Python
 - Selenium
 
@@ -132,6 +148,8 @@ A software scraping public records from the state aid registry. An interesting p
 In Poland, financial statements of companies and other institutions are de jure publicly available, but de facto difficult to access and analyze.
 
 I created an application that downloads financial reports while avoiding denial of access to these public resources. Most difficulties of the project stem from the need to prevent blacklisting while ensuring that the process is legal and ethical. On the technical side, this is achieved by making the automatic scraper to behave like a normal user. This includes sending spaced HTTP requests with appropriate HTTP headers, randomizing behaviour, accessing the registry from different IP addresses. From an architectural perspective, the software follows the Page Object Model pattern.
+
+Source code: on request
 
 - Python
 - Selenium
@@ -163,6 +181,8 @@ By far the most complex software I've ever written. The backend consists of smal
 
 Financial data read by the software can be visualized (incl. as a chart), printed and saved as an Excel file. The tools allow to analyze financial data from one or many financial statements. With thousands unique users a month the application is widely used across the country among managers, journalists and finance professionals (accountants, auditors, analysts, etc.).
 
+Demo: mojeanalizy.pl/en/teksty/jak-odczytac-e-sprawozdanie-finansowe-xml
+
 - Python
 - Django, Django Rest Framework
 - bs4, xlsx, unittest
@@ -175,6 +195,8 @@ Financial data read by the software can be visualized (incl. as a chart), printe
 ### 2019 - API client
 
 Client for making requests to the Central Statistical Office API and copying its databases.
+
+Source code: on request
 
 - Python
 
