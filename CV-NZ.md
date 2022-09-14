@@ -15,11 +15,11 @@
 
 ## Current Status
 
-Looking for a full-time work as Software/Application Programmer in New Zealand (on-location).
+Looking for a full-time work as Software/Application Programmer in New Zealand (on-location) or in Australia (remotely from New Zealand).
 
-I am seeking a job that will allow me to realize my skills. I want to develop in the field of writing complex business logic and data-intensive applications. My favorite languages are Python, TypeScript, and JavaScript (in that order).
+My favorite languages are Python, TypeScript, and JavaScript. I am seeking a job that will allow me to realize my skills. I want to develop in the field of writing complex business logic and data-intensive applications.
 
-I really like solving technical problems and learning how systems work. I am a business-oriented programmer, more focused on delivering customer value than technical issues. Before I started writing software, I worked as a lawyer with a tax specialization and got to know inside out how business works, both big and small.
+I really like solving technical problems and learning how systems work. I am a business-oriented programmer, more focused on delivering customer value than technical issues.
 
 On a personal level, I have a family in New Zealand that I would like to join.
 
@@ -27,7 +27,7 @@ On a personal level, I have a family in New Zealand that I would like to join.
 
 ## Visa status
 
-Looking for a job offer from an employer who is accredited to hire migrants for the Accredited Employer Work Visa.
+I am open to job offers that would enable to work and acquire a visa in New Zealand. In the long term I am looking for a job offer from an employer who is accredited to hire migrants for the New Zealand's Accredited Employer Work Visa.
 
 ---
 
