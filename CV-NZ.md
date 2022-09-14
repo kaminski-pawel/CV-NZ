@@ -41,7 +41,7 @@ Twitter Bot, which publishes posts of companies' business activities.
 
 This bot utilizes a FIFO queue. First, a tweet is prepared and queued to AWS Simple Queue Service. Then, after a certain amount of time, the tweet is dequeued and published using Twitter API.
 
-Source code: github.com/kaminski-pawel/yale-celi-twitter-bot
+[Source code](https://github.com/kaminski-pawel/yale-celi-twitter-bot)
 
 - Python
 - boto3, tweepy
@@ -51,7 +51,7 @@ Source code: github.com/kaminski-pawel/yale-celi-twitter-bot
 
 This project consists of two AWS Lambda functions to provide an API to the list of companies maintained by Jeffrey Sonnenfeld and his team the Yale Chief Executive Leadership Institute.
 
-Source code: github.com/kaminski-pawel/yale-celi-list-of-companies
+[Source code](https://github.com/kaminski-pawel/yale-celi-list-of-companies)
 
 - Python
 - JavaScript
@@ -62,7 +62,7 @@ Source code: github.com/kaminski-pawel/yale-celi-list-of-companies
 
 Horizontal waterfall chart for use in a larger project.
 
-Source code: codesandbox.io/s/github/kaminski-pawel/chart-js-waterfall
+[Source code](https://codesandbox.io/s/github/kaminski-pawel/chart-js-waterfall)
 
 - JavaScript
 - chart.js
@@ -91,7 +91,7 @@ Source code: on request
 
 For the purpose of a mass mailing marketing campaign, I wrote an application that takes in as an input an HTML email template file and sends multiple emails customized to different recipients. This project uses Amazon Simple Email Service (SES).
 
-Source code: github.com/kaminski-pawel/send-emails
+[Source code](https://github.com/kaminski-pawel/send-emails)
 
 - Python
 - AWS SES
@@ -104,7 +104,7 @@ In cooperation with the Polish Chamber of Commerce for Road Engineering I wrote 
 
 The front-end is a JavaScript/Nuxt application rendered on a server side. The financial data of the companies is loaded from the Amazon DynamoDB database or S3 buckets.
 
-Demo: mojeanalizy.pl/en/analizy/budownictwo-drogowe
+[Demo](https://mojeanalizy.pl/en/analizy/budownictwo-drogowe)
 
 - Python
 - Django
@@ -181,7 +181,7 @@ By far the most complex software I've ever written. The backend consists of smal
 
 Financial data read by the software can be visualized (incl. as a chart), printed and saved as an Excel file. The tools allow to analyze financial data from one or many financial statements. With thousands unique users a month the application is widely used across the country among managers, journalists and finance professionals (accountants, auditors, analysts, etc.).
 
-Demo: mojeanalizy.pl/en/teksty/jak-odczytac-e-sprawozdanie-finansowe-xml
+[Demo](https://mojeanalizy.pl/en/teksty/jak-odczytac-e-sprawozdanie-finansowe-xml)
 
 - Python
 - Django, Django Rest Framework
