@@ -1,39 +1,58 @@
 # Pawel Kaminski
 
-- Applying for: Software Developer
 - Email: kaminskipawel@hotmail.com
 - Date of Birth: 28 October 1989
 
 ## Social Profile
 
-- Website: tipi.software/en/profil/pawel-kaminski
-- Linkedin: www.linkedin.com/in/pawel-kam
-- Github: github.com/kaminski-pawel
-- StackOverflow: stackoverflow.com/users/8007403/pawel-kam
+- [Website](https://tipi.software/en/profil/pawel-kaminski)
+- [Github](https://github.com/kaminski-pawel)
+- [StackOverflow](https://stackoverflow.com/users/8007403/pawel-kam)
+
+## Certifications
+
+- AWS Certified Solutions Architect - Associate (ref.no.: SFJP6C5K6J4Q1ECS)
+- AWS Certified Developer - Associate (ref.no.: DERJ0BEK4E11QGCZ)
 
 ---
 
-## Current Status
+## Main technologies
 
-Looking for a full-time work as Software/Application Programmer in New Zealand (on-location) or in Australia (remotely from New Zealand).
-
-My favorite languages are Python, TypeScript, and JavaScript. I am seeking a job that will allow me to realize my skills. I want to develop in the field of writing complex business logic and data-intensive applications.
-
-I really like solving technical problems and learning how systems work. I am a business-oriented programmer, more focused on delivering customer value than technical issues.
-
-On a personal level, I have a family in New Zealand that I would like to join.
-
----
-
-## Visa status
-
-I am open to job offers that would enable to work and acquire a visa in New Zealand. In the long term I am looking for a job offer from an employer who is accredited to hire migrants for the New Zealand's Accredited Employer Work Visa.
+Main technologies I currently work with are:
+Python, AWS, JavaScript, TypeScript, Docker, PostgreSQL, Docker, Django, Vue.js, React, pandas, selenium
 
 ---
 
 ## Project history
 
 Listed below are some of the software projects, I've worked on.
+
+### 2022 - 2023 - a project with improved CI/CD pipeline
+
+A client needed an application to distribute surveys to their customers. For me, the project served as a testing ground for improvements in continuous integration and continuous delivery.
+
+- Docker
+- GitHub Actions
+- AWS ECS Fargate, ECR
+- Python, Django
+- JavaScript, Lit
+
+### 2022 - personal website
+
+The website was optimized for web performance: fast first contentful paint, no blocking time, no layout shift, etc. This was achieved, among others, with the use of svg, css spliting, loading optimization, minimization and compression.
+
+[Demo](https://tipi.software/en/)
+
+### 2022 - static website
+
+Static serverless website.
+
+[Demo](http://ferienhaus-in-polen.eu.s3-website.eu-central-1.amazonaws.com/)
+[Source code](https://github.com/kaminski-pawel/zukowo-website)
+
+- JavaScript
+- Vue
+- Amazon S3
 
 ### 2022 - Twitterbot based on AWS SQS
 
@@ -49,7 +68,7 @@ This bot utilizes a FIFO queue. First, a tweet is prepared and queued to AWS Sim
 
 ### 2022 - AWS Lambda functions for serving as an backend API
 
-This project consists of two AWS Lambda functions to provide an API to the list of companies maintained by Jeffrey Sonnenfeld and his team the Yale Chief Executive Leadership Institute.
+This project consists of two AWS Lambda functions to provide an API to the list of companies maintained by the Yale Chief Executive Leadership Institute.
 
 [Source code](https://github.com/kaminski-pawel/yale-celi-list-of-companies)
 
@@ -279,9 +298,9 @@ Master's Degree (LL.M.) at UAM Law School in Poznan, Poland (the third best Law 
 
 ## Other skills
 
-- English ⭐⭐⭐
-- Polish ⭐⭐⭐
-- German ⭐
-
+- English ⭐⭐⭐⭐⭐
+- Polish ⭐⭐⭐⭐⭐
+- German ⭐⭐
+- Ukrainian ⭐
 - Scrum, Agile
 - Git, Github, Jira, Bitbucket
